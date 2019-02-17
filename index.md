@@ -1,1 +1,1 @@
-More information coming soon. 
+HandsOnHacking is now just a landing page for a longterm project of mine that I hope will eventually hold security labs for Students and Professionals who are interested in both offensive and defensive security.  
